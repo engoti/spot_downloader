@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Install Python Libraries
 ```bash
-pip install spotipy yt-dlp requests
+pip install spotipy yt-dlp requests youtube-search-python
 ```
 
 ### 2. Install FFmpeg
